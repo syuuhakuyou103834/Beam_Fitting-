@@ -1,0 +1,17 @@
+2025-07-09 11:14:38,734 - INFO - 优化程序启动
+2025-07-09 11:14:38,737 - INFO - 加载矩阵完成，形状: (31, 31)
+2025-07-09 11:14:38,737 - INFO - 原始矩阵总和: 5326.39
+2025-07-09 11:14:38,744 - INFO - 凸包顶点数: 8
+2025-07-09 11:14:41,731 - INFO - 初始解与原始矩阵偏差: 0.00
+2025-07-09 11:14:41,732 - INFO - 初始解总和: 5326.39 (原始总和: 5326.39)
+2025-07-09 11:14:42,398 - INFO - 开始优化过程...
+2025-07-09 11:14:42,400 - ERROR - 运行时错误: _minimize_trustregion_constr() got an unexpected keyword argument 'ftol'
+Traceback (most recent call last):
+  File "d:\VScode_Project\Convolution integral\beamprofile_optimizer.py", line 197, in main
+    result = minimize(
+             ^^^^^^^^^
+  File "d:\VScode_Project\Convolution integral\CI.venv\Lib\site-packages\scipy\optimize\_minimize.py", line 800, in minimize
+    res = _minimize_trustregion_constr(fun, x0, args, jac, hess, hessp,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: _minimize_trustregion_constr() got an unexpected keyword argument 'ftol'
+2025-07-09 11:14:42,403 - INFO - 程序结束，总耗时: 3.67秒

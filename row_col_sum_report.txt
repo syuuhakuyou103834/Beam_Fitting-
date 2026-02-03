@@ -1,0 +1,75 @@
+=== Row and Column Sum Report ===
+Tolerance for conservation check: ¡À0.001
+
+Row Sums (Before -> After):
+Row  1:   0.000000 ->   0.000000 | Conserved
+Row  2:   0.000000 ->   0.000000 | Conserved
+Row  3:   0.000000 ->   0.000000 | Conserved
+Row  4:  42.500800 ->  42.491324 | Difference: 0.009476
+Row  5:  63.308300 ->  63.294724 | Difference: 0.013576
+Row  6:  84.560700 ->  84.502678 | Difference: 0.058022
+Row  7: 105.618200 -> 105.549269 | Difference: 0.068931
+Row  8: 134.479100 -> 134.451539 | Difference: 0.027561
+Row  9: 163.805600 -> 163.772043 | Difference: 0.033557
+Row 10: 197.095800 -> 197.055669 | Difference: 0.040131
+Row 11: 232.589900 -> 232.542556 | Difference: 0.047344
+Row 12: 303.974200 -> 303.826578 | Difference: 0.147622
+Row 13: 444.147700 -> 443.955839 | Difference: 0.191861
+Row 14: 615.427400 -> 615.302201 | Difference: 0.125199
+Row 15: 785.207100 -> 785.048780 | Difference: 0.158320
+Row 16: 1057.560900 -> 1057.269132 | Difference: 0.291768
+Row 17: 815.661300 -> 815.496835 | Difference: 0.164465
+Row 18: 500.954900 -> 500.641263 | Difference: 0.313637
+Row 19: 335.019900 -> 334.952049 | Difference: 0.067851
+Row 20: 180.314800 -> 180.108418 | Difference: 0.206382
+Row 21:  79.128400 ->  79.111612 | Difference: 0.016788
+Row 22:  44.710100 ->  44.700068 | Difference: 0.010032
+Row 23:  28.036100 ->  28.007755 | Difference: 0.028345
+Row 24:  23.799900 ->  23.776734 | Difference: 0.023166
+Row 25:  16.309100 ->  16.291802 | Difference: 0.017298
+Row 26:  13.185300 ->  13.171289 | Difference: 0.014011
+Row 27:   0.000000 ->   0.000000 | Conserved
+Row 28:   0.000000 ->   0.000000 | Conserved
+Row 29:   0.000000 ->   0.000000 | Conserved
+Row 30:   0.000000 ->   0.000000 | Conserved
+Row 31:   0.000000 ->   0.000000 | Conserved
+
+Max row difference: 0.313637
+
+Column Sums (Before -> After):
+Col  1:   0.000000 ->   0.000000 | Conserved
+Col  2:   0.000000 ->   0.000000 | Conserved
+Col  3:   0.000000 ->   0.000000 | Conserved
+Col  4:   0.000000 ->   0.000000 | Conserved
+Col  5:   0.000000 ->   0.000000 | Conserved
+Col  6:  55.539000 ->  55.504631 | Difference: 0.034369
+Col  7:  77.583000 ->  77.590120 | Difference: 0.007120
+Col  8: 107.308400 -> 107.220742 | Difference: 0.087658
+Col  9: 138.837100 -> 138.726931 | Difference: 0.110169
+Col 10: 180.237100 -> 180.239215 | Difference: 0.002115
+Col 11: 234.749200 -> 234.677067 | Difference: 0.072133
+Col 12: 321.174700 -> 321.194140 | Difference: 0.019440
+Col 13: 474.657300 -> 474.414982 | Difference: 0.242318
+Col 14: 637.743200 -> 637.432666 | Difference: 0.310534
+Col 15: 819.727800 -> 819.312922 | Difference: 0.414878
+Col 16: 1061.311600 -> 1061.311600 | Conserved
+Col 17: 791.199000 -> 790.784863 | Difference: 0.414137
+Col 18: 527.314400 -> 527.351169 | Difference: 0.036769
+Col 19: 360.605900 -> 360.495916 | Difference: 0.109984
+Col 20: 212.861200 -> 212.678810 | Difference: 0.182390
+Col 21: 105.988200 -> 105.904967 | Difference: 0.083233
+Col 22:  64.656900 ->  64.628791 | Difference: 0.028109
+Col 23:  44.664400 ->  44.639748 | Difference: 0.024652
+Col 24:  31.997900 ->  31.977279 | Difference: 0.020621
+Col 25:  19.239200 ->  19.233595 | Difference: 0.005605
+Col 26:   0.000000 ->   0.000000 | Conserved
+Col 27:   0.000000 ->   0.000000 | Conserved
+Col 28:   0.000000 ->   0.000000 | Conserved
+Col 29:   0.000000 ->   0.000000 | Conserved
+Col 30:   0.000000 ->   0.000000 | Conserved
+Col 31:   0.000000 ->   0.000000 | Conserved
+
+Max column difference: 0.414878
+
+=== Conservation Summary ===
+WARNING: Some row or column sums changed beyond tolerance!
