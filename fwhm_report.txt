@@ -1,0 +1,15 @@
+=== FWHM Analysis Report ===
+
+Original FWHM (mm):
+ 0бу: 33.6787, 15бу: 30.3981, 45бу: 28.2385, 75бу: 31.3556, 90бу: 35.4666, 
+
+Transformed FWHM (mm):
+ 0бу: 22.7911, 15бу: 23.0165, 45бу: 24.1535, 75бу: 23.3643, 90бу: 23.2510, 
+
+=== Transformation Details ===
+Original grid: 31б┴31 points (1mm resolution)
+Transformed grid: 31б┴31 points (1mm resolution)
+High-res grid: 301б┴301 points (0.1mm resolution)
+
+FWHM Change Percentage (%):
+ 0бу: -32.3%, 15бу: -24.3%, 45бу: -14.5%, 75бу: -25.5%, 90бу: -34.4%, 
